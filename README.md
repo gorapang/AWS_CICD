@@ -18,5 +18,9 @@
 
 
 ## 아키텍처 구조
+![image](https://github.com/user-attachments/assets/25d05527-ef0f-47cc-8dda-49a0a8f39a83)
 
-## 
+## 1. Jenkins와 GitHub 간 웹훅 연결
+![image](https://github.com/user-attachments/assets/4d76e7e6-05ab-4ac2-8375-8dc28ce51c39)
+도커에 jenkins를 설치 후, jenkins를 8888포트를 사용하여 접속이 가능하도록 설정합니다.
+
